@@ -52,7 +52,7 @@ ram.runtime = "150M"
     help.fr = "Le mot de passe est utilisé pour autoriser l'accès aux téléchargements et au panneau d'administration."
     type = "password"
     
-    [install.display_name]
+    [install.displayname]
     help.en = "Display name"
     help.de = "Anzeigename"
     type = "string"
